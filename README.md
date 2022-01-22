@@ -24,7 +24,7 @@ _**Final Contact Force Orientation**_
 ## Project 2: Android Game (Java)
 
 ### The Game
-The game was created in Android Studio using Java. Currently the game is in internal testing, therefore it is not available yet on Google Play. It follows a simple concept where the main character can be moved left or right by pressing on the left or right half of the screen. The goal is it to avoid the falling objects unless a hammer has been collected in which case the user can destroy the objects and collect points. The falling assets are called triaxial apparatus which is an equipment used in geotechnical engineering for soil testing. The background is Queens Tower which is located a Imperial College London. When losing the game, the following quote appears "You got soiled". 
+The game was created in Android Studio using Javaand is avaliable on Google Play. It follows a simple concept where the main character can be moved left or right by pressing on the left or right half of the screen. The goal is it to avoid the falling objects unless a hammer has been collected in which case the user can destroy the objects and collect points. The falling assets are called triaxial apparatus which is an equipment used in geotechnical engineering for soil testing. The background is Queens Tower which is located a Imperial College London. When losing the game, the following quote appears "You got soiled". 
 <p align="center"  width="100%">
   <img  width="20%" src="./images/ScreenshotSoiled1.png">
 </p>
