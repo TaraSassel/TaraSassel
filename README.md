@@ -5,7 +5,7 @@
 
 ## PhD Project: Analysing Earth Pressure Build-Up Behind Integral Bridge Abutments
 <p>Integral bridges are bridges which do not have joints and bearings. In conventional bridges there is damage of the joints due to de-icing salts and accumulation of debris between the joints. This leads to a significant amount of maintenance which has to be carried out on those bridges. In integral bridges the abutment is rigidly connected to the deck. As the deck expands and contracts with temperature changes (Summer - Winter / Day - Night), the abutment is subjected to a cyclic movement. This movement leads to settlement of the backfill soil adjacent to the abutment and build-up of earth pressure. Currently there is no guidance in the Eurocodes on the earth pressure build up and the developing settlement throughs behind integral bridges. There are two UK guides on integral bridges. Some insight into soil behaviour has been obtained using physical centrifuge models and settlement tests. My study aims to further advance understanding using discrete element method (DEM) simulations.<p>
-<p align="center"  width="50%">
+<p align="center"   width="30%" height="30%">
   <img src="./images/ClumpRotate.gif">
 </p>
   
