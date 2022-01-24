@@ -10,8 +10,7 @@
 ## Molecular Dynamic Simulations in LAMMPS
 <p> I have been using an open-source molecular dynamics code called LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator) to create samples up to 150k particles. The particles represent sand samples and are loaded cyclically to simulate conditions adjacent to integral bridge abutments. Properties such as particle movement, contact number, stresses etc are throughout the simulation. 
 </p>  
-<p align="center" float="left">
-  <img src="./images/Sample150k.gif"  width="50%" height = "50%">
+<p align="center">
   <img src="./images/ClumpRotate.gif"  width="50%" height = "50%">
 </p>
   
