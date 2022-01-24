@@ -16,7 +16,7 @@
   
 ## Particle Contact Force (Python)
 When working with LAMMPS a lot of different information is generated throughout the simulation. One of which is the contact-force information of all the particles within the sample. This information can be obtained at different predefined intervals and given in forms of text files. Using this information, the two figures below were generated with python where the Pandas, Numpy and Matpoltlib libraries were applied. The figures show three rose diagrams for the xy, yz and yz plane. The bar size depends on the number of contacts and the orientation is dependant on the direction of the contact force. The bars are coloured according to the average magnitude of contact forces in the given direction.  
-The script can be found [here](./scripts/contactForceRoseAllPlanesGit.py) with a [data file](./scripts/dump800000000.contact) to be used with it.
+The script can be found [here](./scripts/contactForceRoseAllPlanesGit.py).
 
 _**Initial Contact Force Orientation**_
 <p align="center"  width="100%">
@@ -32,7 +32,7 @@ _**Final Contact Force Orientation**_
 ## Android Game (Java)
 
 ### The Game
-The game was created in Android Studio using Javaand is avaliable on Google Play. It follows a simple concept where the main character can be moved left or right by pressing on the left or right half of the screen. The goal is it to avoid the falling objects unless a hammer has been collected in which case the user can destroy the objects and collect points. The falling assets are called triaxial apparatus which is an equipment used in geotechnical engineering for soil testing. The background is Queens Tower which is located a Imperial College London. When losing the game, the following quote appears "You got soiled". 
+The game was created in Android Studio using Java and is avaliable on Google Play. It follows a simple concept where the main character can be moved left or right by pressing on the left or right half of the screen. The goal is it to avoid the falling objects unless a hammer has been collected in which case the user can destroy the objects and collect points. The falling assets are called triaxial apparatus which is an equipment used in geotechnical engineering for soil testing. The background is Queens Tower which is located a Imperial College London. When losing the game, the following quote appears "You got soiled". 
 <p align="center"  width="100%">
   <img  width="20%" src="./images/ScreenshotSoiled1.png">
 </p>
