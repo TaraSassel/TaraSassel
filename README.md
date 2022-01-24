@@ -8,7 +8,7 @@
 
   
 ## Molecular Dynamic Simulations in LAMMPS
-<p> I have been using an open-source molecular dynamics code called LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator) to create samples up to 150k particles. The particles represent sand samples and are loaded cyclically to simulate conditions adjacent to integral bridge abutments. The samples can consist of spheres or clumps (two over lapping spheres). A smaller sample of about 8k clumps is shown below. Properties such as particle movement, contact number, stresses etc are throughout the simulation which are run on the imperial high-performance computing (HPC) cluster.
+<p> I have been using an open-source molecular dynamics code called LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator) to create samples up to 150k particles. The particles represent sand samples and are loaded cyclically to simulate conditions adjacent to integral bridge abutments. The samples can consist of spheres or clumps (two over lapping spheres). A smaller sample of about 8k clumps is shown below. Properties such as particle movement, contact number, stresses etc are output throughout the simulation. The simulations are run on the imperial high-performance computing (HPC) cluster.
 </p>  
 <p align="center">
   <img src="./images/ClumpRotate.gif"  width="50%" height = "50%">
