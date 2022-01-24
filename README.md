@@ -1,4 +1,4 @@
-## Hi my name is Tara and I am currently a final year PhD candidate at Imperial College London.
+## About Me
 - 💻I am carrying out Molecular Dynamics simulations in the open source code LAMMPS
 - 🏃 One of my passions is running 
 - 🎷 I play saxophone  
