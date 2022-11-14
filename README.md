@@ -14,6 +14,37 @@
 <p align="center">
   <img src="./images/ClumpRotate.gif"  width="50%" height = "50%">
 </p>
+
+## Fraud Data Classification
+### Abstract 
+<p>For this project the data from Kaggel was used (https://www.kaggle.com/datasets/girishvutukuri/insurance-fraud)
+A quick overview of the data is provided in a first step where some of the methods that were applied to filter the data are explained. 
+Two methods to classify the data are explored usink sklean, Logistic Regression and Random Forest. And will be discussed in more detail. 
+The notebook to this project can be found here. 
+</p> 
+### Data Overview
+
+
+### Model Training 
+_**Fraud Overview**_
+<p align="center" width="50%" height = "50%">
+  <img src="./images/FraudOverview.png">
+</p>
+
+### Logistic Regression
+_**Confusion Matrix**_
+<p align="center" width="50%" height = "50%">
+  <img src="./images/LogisticReg_ConfusionMatrix.png">
+</p>
+
+
+### Random Forest 
+_**Confusion Matrix**_
+<p align="center" width="50%" height = "50%">
+  <img src="./images/RandomForest_ConfusionMatrix.png">
+</p>
+
+
   
 ## Particle Contact Force (Python)
 When working with LAMMPS a lot of different information is generated throughout the simulation. One of which is the contact-force information of all the particles within the sample. This information can be obtained at different predefined intervals and given in forms of text files. Using this information, the two figures below were generated with python where the Pandas, Numpy and Matpoltlib libraries were applied. The figures show three rose diagrams for the xy, yz and yz plane. The bar size depends on the number of contacts and the orientation is dependant on the direction of the contact force. The bars are coloured according to the average magnitude of contact forces in the given direction.  
