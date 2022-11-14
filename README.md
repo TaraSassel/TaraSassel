@@ -17,9 +17,9 @@
 
 ## Fraud Data Classification
 ### Abstract 
-<p>For this project the data from Kaggel was used (https://www.kaggle.com/datasets/girishvutukuri/insurance-fraud)
+<p>For this project the data from Kaggel was used (https://www.kaggle.com/datasets/girishvutukuri/insurance-fraud).
 A quick overview of the data is provided in a first step where some of the methods that were applied to filter the data are explained. 
-Two methods to classify the data are explored usink sklean, Logistic Regression and Random Forest. And will be discussed in more detail. 
+Two methods to classify the data are explored using sklean, Logistic Regression and Random Forest. And will be discussed in more detail. 
 The notebook to this project can be found here. 
 </p> 
 ### Data Overview
