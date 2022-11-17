@@ -19,19 +19,33 @@
 ### Abstract 
 <p>For this project the data from Kaggel was used (https://www.kaggle.com/datasets/girishvutukuri/insurance-fraud).
 A quick overview of the data is provided in a first step where some of the methods that were applied to filter the data are explained. 
-Two methods to classify the data are explored using sklean, Logistic Regression and Random Forest. And will be discussed in more detail. 
-The notebook to this project can be found here. 
-</p> 
+Two methods to classify the data are explored using sklearn, Logistic Regression and Random Forest. And will be discussed in more detail. 
+The notebook to this project can be found here.</p> 
+
 ### Data Overview
+<p>5 different csv files provided in this data set which are:</p>
 
+- Demographics Data <br />
+- Policy Information <br />
+- Claim Information <br />
+- Vehicle Data <br />
+- Fraud Data <br /> 
 
-### Model Training 
+<p>The data provided is already divided into test and training data. However, the fraud data was only provided for the training dataset. It was decided to divide the training data as well into test and training data because of this reason. This helped me to evaluate the models using a confusion matrix.</p>
+
 _**Fraud Overview**_
-<p align="center" width="50%" height = "50%">
-  <img src="./images/FraudOverview.png">
+<p align="center" width="30%" height = "100%">
+  (a)<img src="./images/FraudOverview.png", width = "30%" />
+  (b)<img src="./images/PCA_data.png", width = "40%" />
 </p>
 
+
+## Model Training 
+
+
 ### Logistic Regression
+<p>Logistic regression is a method that enables the classification of data. It was found that this was an  appropriate method as there were only two categories, fraud or no fraud. </p> 
+
 _**Confusion Matrix**_
 <p align="center" width="50%" height = "50%">
   <img src="./images/LogisticReg_ConfusionMatrix.png">
