@@ -43,7 +43,7 @@ The above Figure provides a quick overview of the training dataset. It can be ob
 From Figure (b) it can be observed that in case of fraud the amount of total claim is mostly above 30k where some of the highest amounts claimed can be dishonest cases. However, the typical range is identical to the non-fraudulent cases.  
 
 It is key to identify fraudulent cases accurately, wrongly accusing customers would result in a decrease in customers; therefore, it is necessary to keep "False Positives" to a minimum.
-<p align="center" width="30%" height = "30%">
+<p align="center" width="10%" height = "10%">
   <img src="./images/PCA_data.png">
 </p>
 ## Model Training 
