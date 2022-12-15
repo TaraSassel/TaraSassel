@@ -36,11 +36,16 @@ The notebook to this project can be found here.</p>
 _**Fraud Overview**_
 <p align="center" width="30%" height = "100%">
   (a)<img src="./images/PiChartFraudCases.png", width = "30%" />
-  (b)<img src="./images/PCA_data.png", width = "40%" />
+  (b)<img src="./images/HistplotAmountOfTotalClaim.png", width = "40%" />
 </p>
 
-The above Figure provides a quick overview of the training dataset. It can be observed that Fraud is a big problem to the insurance company as about a quater of the cases show fraud. These fraudulent cases can significantly diminish the company’s profit. It is key to identify fraudulent cases accurately, wrongly accusing customers would result in a decrease in customers; therefore, it is necessary to keep "False Positives" to a minimum.
+The above Figure provides a quick overview of the training dataset. It can be observed that Fraud is a big problem to the insurance company as about a quarter of the cases show fraud. These fraudulent cases can significantly diminish the company’s profit. 173M was the total amount claimed between the beginning of January to the end of March from cases that were identified as fraud. In comparison, 431M was the amount paid out to sincere cases. 
+From Figure (b) it can be observed that the amount of total claim is mostly above 30k where some of the highest amounts claimed can be fraud. However, the typical range is identical to the non-fraudulent cases.  
 
+It is key to identify fraudulent cases accurately, wrongly accusing customers would result in a decrease in customers; therefore, it is necessary to keep "False Positives" to a minimum.
+<p align="center" width="50%" height = "50%">
+  <img src="./images/PiChartFraudCases.png">
+</p>
 ## Model Training 
 
 
