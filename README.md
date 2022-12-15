@@ -39,7 +39,7 @@ _**Fraud Overview**_
   (b)<img src="./images/PCA_data.png", width = "40%" />
 </p>
 
-The above Figure provides a quick overview of the training dataset. It can be observed that Fraud is a big problem to the insurance company as slightly less than 40% of the cases show fraud. These fraudulent cases can significantly diminish the company’s profit. It is key to identify fraudulent cases accurately, wrongly accusing customers would result in a decrease in customers; therefore, it is necessary to keep "False Positives" to a minimum.
+The above Figure provides a quick overview of the training dataset. It can be observed that Fraud is a big problem to the insurance company as about a quater of the cases show fraud. These fraudulent cases can significantly diminish the company’s profit. It is key to identify fraudulent cases accurately, wrongly accusing customers would result in a decrease in customers; therefore, it is necessary to keep "False Positives" to a minimum.
 
 ## Model Training 
 
