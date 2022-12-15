@@ -31,7 +31,7 @@ The notebook to this project can be found here.</p>
 - Vehicle Data <br />
 - Fraud Data <br /> 
 
-<p>The data provided is already divided into test and training data. However, the fraud data was only provided for the training dataset. It was decided to divide the training data as well into test and training data because of this reason. This helped me to evaluate the models using a confusion matrix.</p>
+<p>The data provided is already divided into test and training data. However, the fraud data was only provided for the training dataset. In order to evaluate the model performance it was decided to divide the training dataset as well. This evaluation was carried out by creating a confusion matrix and calculating the F1 score, accuracy,  precision and recall.</p>
 
 _**Fraud Overview**_
 <p align="center" width="30%" height = "100%">
@@ -39,6 +39,7 @@ _**Fraud Overview**_
   (b)<img src="./images/PCA_data.png", width = "40%" />
 </p>
 
+The above Figure provides a quick overview of the training dataset. It can be observed that Fraud is a big problem to the insurance company as slightly less than 40% of the cases show fraud. These fraudulent cases can significantly diminish the company’s profit. It is key to identify fraudulent cases accurately, wrongly accusing customers would result in a decrease in customers; therefore, it is necessary to keep "False Positives" to a minimum.
 
 ## Model Training 
 
