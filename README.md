@@ -40,7 +40,7 @@ _**Fraud Overview**_
 </p>
 
 The above Figure provides a quick overview of the training dataset. It can be observed that Fraud is a big problem to the insurance company as about a quarter of the cases show fraud. These fraudulent cases can significantly diminish the company’s profit. 173M was the total amount claimed between the beginning of January to the end of March from cases that were identified as fraud. In comparison, 431M was the amount paid out to sincere cases. 
-From Figure (b) it can be observed that the amount of total claim is mostly above 30k where some of the highest amounts claimed can be fraud. However, the typical range is identical to the non-fraudulent cases.  
+From Figure (b) it can be observed that in case of fraud the amount of total claim is mostly above 30k where some of the highest amounts claimed can be dishonest cases. However, the typical range is identical to the non-fraudulent cases.  
 
 It is key to identify fraudulent cases accurately, wrongly accusing customers would result in a decrease in customers; therefore, it is necessary to keep "False Positives" to a minimum.
 <p align="center" width="30%" height = "30%">
