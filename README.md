@@ -35,7 +35,7 @@ The notebook to this project can be found here.</p>
 
 _**Fraud Overview**_
 <p align="center" width="30%" height = "100%">
-  (a)<img src="./images/FraudOverview.png", width = "30%" />
+  (a)<img src="./images/PiChartFraudCases.png", width = "30%" />
   (b)<img src="./images/PCA_data.png", width = "40%" />
 </p>
 
