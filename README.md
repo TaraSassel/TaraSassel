@@ -44,7 +44,7 @@ From Figure (b) it can be observed that the amount of total claim is mostly abov
 
 It is key to identify fraudulent cases accurately, wrongly accusing customers would result in a decrease in customers; therefore, it is necessary to keep "False Positives" to a minimum.
 <p align="center" width="50%" height = "50%">
-  <img src="./images/PiChartFraudCases.png">
+  <img src="./images/PCA_data.png">
 </p>
 ## Model Training 
 
