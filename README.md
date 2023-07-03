@@ -14,21 +14,6 @@
 <p align="center">
   <img src="./images/ClumpRotate.gif"  width="50%" height = "50%">
 </p>
-  
-## Particle Contact Force (Python)
-When working with LAMMPS a lot of different information is generated throughout the simulation. One of which is the contact-force information of all the particles within the sample. This information can be obtained at different predefined intervals and given in forms of text files. Using this information, the two figures below were generated with python where the Pandas, Numpy and Matpoltlib libraries were applied. The figures show three rose diagrams for the xy, yz and yz plane. The bar size depends on the number of contacts and the orientation is dependant on the direction of the contact force. The bars are coloured according to the average magnitude of contact forces in the given direction.  
-The script can be found [here](./scripts/contactForceRoseAllPlanesGit.py).
-
-_**Initial Contact Force Orientation**_
-<p align="center"  width="100%">
-  <img src="./images/dump0_rose.png">
-</p>
-
-_**Final Contact Force Orientation**_
-
-<p align="center"  width="100%">
-  <img src="./images/dump800000000_rose.png">
-</p>
 
 ## Android Game (Java)
 
@@ -47,6 +32,22 @@ The online Leaderboard system is connected to Google Firebase, where the data in
   <img width="20%" src="./images/ScreenshotSoiled2.png">
 </p>
 
+<!--
+## Particle Contact Force (Python)
+When working with LAMMPS a lot of different information is generated throughout the simulation. One of which is the contact-force information of all the particles within the sample. This information can be obtained at different predefined intervals and given in forms of text files. Using this information, the two figures below were generated with python where the Pandas, Numpy and Matpoltlib libraries were applied. The figures show three rose diagrams for the xy, yz and yz plane. The bar size depends on the number of contacts and the orientation is dependant on the direction of the contact force. The bars are coloured according to the average magnitude of contact forces in the given direction.  
+The script can be found [here](./scripts/contactForceRoseAllPlanesGit.py).
+
+_**Initial Contact Force Orientation**_
+<p align="center"  width="100%">
+  <img src="./images/dump0_rose.png">
+</p>
+
+_**Final Contact Force Orientation**_
+
+<p align="center"  width="100%">
+  <img src="./images/dump800000000_rose.png">
+</p>
+-->
 
 
 ## Fraud Data Classification
