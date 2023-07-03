@@ -1,5 +1,5 @@
 ## About Me
-- 💻I am carrying out Molecular Dynamics simulations in the open source code LAMMPS
+- 💻I am carrying out DEM simulations in the open source code LAMMPS
 - 🎮I created an Android App
 - 🏃 One of my passions is running 
 - 🎷 I play saxophone  
