@@ -5,9 +5,11 @@
 - 🎷 I play saxophone  
 
 ## PhD Project: DEM study of the behaviour of granular materials during drained cyclic loading
-<p>The PhD project focused on the behaviour of granular materials subjected to drained cyclic loading. These conditions can be found adjacent to integral bridge abutments and wind turbines with monopile foundation and these applications are the primary motivations for the research. Europe is one of the leaders in the offshore wind market and Europe aims to achieve a climate-neutral, low-carbon economy by 2050. One of the most expensive components of an offshore fixed-bottom (monopile) wind turbine construction is the assembly and installation of the substructure and foundation which is estimated to comprise 23.3% of the total cost in the 2021 Cost of Wind Energy Review (NREL, 2022). Monopile foundations are typically 30 - 40m in length and they are vulnerable to tilt. Exceeding the design limits for tilt could lead to high repair costs and potentially compete shutdown of the structure (Jalbi et al., 2019).
+<p>The PhD project focused on the behaviour of granular materials subjected to drained cyclic loading. These conditions can be found adjacent to integral bridge abutments and wind turbines with monopile foundation and these applications are the primary motivations for the research. 
+  
+Europe is one of the leaders in the offshore wind market and Europe aims to achieve a climate-neutral, low-carbon economy by 2050. One of the most expensive components of an offshore fixed-bottom (monopile) wind turbine construction is the assembly and installation of the substructure and foundation which is estimated to comprise 23.3% of the total cost in the 2021 Cost of Wind Energy Review. Monopile foundations are typically 30 - 40m in length and they are vulnerable to tilt. Exceeding the design limits for tilt could lead to high repair costs and potentially compete shutdown of the structure.
+  
 Integral bridges are bridges which do not have joints and bearings. In conventional bridges there is damage of the joints due to de-icing salts and accumulation of debris between the joints. This leads to a significant amount of maintenance which has to be carried out on those bridges. In integral bridges the abutment is rigidly connected to the deck. As the deck expands and contracts with temperature changes (Summer - Winter / Day - Night), the abutment is subjected to a cyclic movement. This movement leads to settlement of the backfill soil adjacent to the abutment and build-up of earth pressure. Currently there is no guidance in the Eurocodes on the earth pressure build up and the developing settlement throughs behind integral bridges. There are two UK guides on integral bridges. Some insight into soil behaviour has been obtained using physical centrifuge models and settlement tests. My study aimed to further advance understanding of drained cyclic loading using discrete element method (DEM) simulations.</p>
-
   
 ## Molecular Dynamic Simulations in LAMMPS (SSH)(HPC)(C++)
 <p> I have been using an open-source molecular dynamics code called LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator) to create samples up to 150k particles. The particles represent sand samples and are loaded cyclically to simulate conditions adjacent to integral bridge abutments. The samples can consist of spheres or clumps (two over lapping spheres). A smaller sample of about 8k clumps is represented below. Properties such as particle movement, contact number, stresses etc are output throughout the simulation resulting in large quantities of data to be processed. The simulations are run on the imperial college high-performance computing (HPC) cluster.
@@ -15,6 +17,10 @@ Integral bridges are bridges which do not have joints and bearings. In conventio
 <p align="center">
   <img src="./images/ClumpRotate.gif"  width="50%" height = "50%">
 </p>
+
+## Project 1 (Classification): Airline Passenger Satisfaction 
+The data for this project was obtained from Kaggle.com and is already divided into training and testing datasets. First an overview of the data is provided for this both the training and testing data was used. Next, a Random Forest Classifier was applied to the training data set. Subsequently, predictions were then made on the testing data set. The model was evaluated using a confusion matrix and calculating metrics such as sensibility and precision. Furthermore, a linear regression model was trained and evaluated. Both models were then compared against each other using ROC curves. The repo for this project can be found here.
+
 
 ## Android Game (Java)
 
