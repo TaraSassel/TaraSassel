@@ -18,7 +18,7 @@ Integral bridges are bridges which do not have joints and bearings. In conventio
   <img src="./images/ClumpRotate.gif"  width="50%" height = "50%">
 </p>
 
-## Project 1 (Classification): Airline Passenger Satisfaction 
+## [Project 1 (Classification): Airline Passenger Satisfaction](https://github.com/TaraSassel/Airline_Passenger_Satisfaction/README.md)
 The data for this project was obtained from Kaggle.com and is already divided into training and testing datasets. First an overview of the data is provided for this both the training and testing data was used. Next, a Random Forest Classifier was applied to the training data set. Subsequently, predictions were then made on the testing data set. The model was evaluated using a confusion matrix and calculating metrics such as sensibility and precision. Furthermore, a linear regression model was trained and evaluated. Both models were then compared against each other using ROC curves. The repo for this project can be found [here](https://github.com/TaraSassel/Airline_Passenger_Satisfaction).
 
 
