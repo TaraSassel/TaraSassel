@@ -19,11 +19,11 @@ Integral bridges are bridges which do not have joints and bearings. In conventio
   <img src="./images/ClumpRotate.gif"  width="50%" height = "50%">
 </p>
 
-I published two journal papers as firsth author during by PhD:
+I published two journal papers as first author during by PhD:
 
 <ol>
-  <li>Paper 1: Linking the macro-scale response of granular materials during drained cyclic loading to the evolution of micro-structure, contact network and energy components - [open access](https://link.springer.com/article/10.1007/s10035-023-01308-z)</li>
-  <li>Paper 2: Advancing Understanding of the Influence of Drained Cyclic Loading on Sand Behavior Using DEM - [link](https://ascelibrary.org/doi/abs/10.1061/JENMDT.EMENG-7248)</li>
+  <li>Paper 1: Linking the macro-scale response of granular materials during drained cyclic loading to the evolution of micro-structure, contact network and energy components - (https://link.springer.com/article/10.1007/s10035-023-01308-z)</li>
+  <li>Paper 2: Advancing Understanding of the Influence of Drained Cyclic Loading on Sand Behavior Using DEM - (https://ascelibrary.org/doi/abs/10.1061/JENMDT.EMENG-7248)</li>
 </ol> 
 
 ## [Project 1 (Classification): Airline Passenger Satisfaction](https://github.com/TaraSassel/Airline_Passenger_Satisfaction)
