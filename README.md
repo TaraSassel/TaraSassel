@@ -29,6 +29,11 @@ I published two journal papers as first author during by PhD:
 ## [Project 1 (Classification): Airline Passenger Satisfaction](https://github.com/TaraSassel/Airline_Passenger_Satisfaction)
 The data for this project was obtained from Kaggle.com and is already divided into training and testing datasets. First an overview of the data is provided for this both the training and testing data was used. Next, a Random Forest Classifier was applied to the training data set. Subsequently, predictions were then made on the testing data set. The model was evaluated using a confusion matrix and calculating metrics such as sensibility and precision. Furthermore, a linear regression model was trained and evaluated. Both models were then compared against each other using ROC curves.
 
+<p align="center">
+  <img src="./images/Project1_Overview.png"  width="80%" height = "80%">
+</p>
+
+
 ## [Stock Prediction App](https://stockprediction-app-ts.streamlit.app/)
 
 ## Android Game (Java)
