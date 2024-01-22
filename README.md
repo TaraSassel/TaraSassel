@@ -33,7 +33,7 @@ The data for this project was obtained from Kaggle.com and is already divided in
   <img src="./images/Project1_Overview.png"  width="80%" height = "80%">
 </p>
 
-## Weather Forecast
+## (Weather Forecast](https://github.com/TaraSassel/Weather_Forecasting)
 <p align="center">
   <img src="./images/Project2_Overview.png"  width="80%" height = "80%">
 </p>
