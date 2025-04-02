@@ -6,7 +6,7 @@
 
 ## PhD Project: <br> DEM study of the behaviour of granular materials during drained cyclic loading
 
-<p>The PhD project focused on the behaviour of granular materials subjected to drained cyclic loading. These conditions can be found adjacent to integral bridge abutments and wind turbines with monopile foundation and these applications are the primary motivations for the research. 
+<p>The PhD project focused on the behaviour of granular materials subjected to drained cyclic loading. These conditions can be found adjacent to integral bridge abutments and wind turbines with monopile foundation.  These applications where the primary motivation for the research. 
   
 Europe is one of the leaders in the offshore wind market and Europe aims to achieve a climate-neutral, low-carbon economy by 2050. One of the most expensive components of an offshore fixed-bottom (monopile) wind turbine construction is the assembly and installation of the substructure and foundation which is estimated to comprise 23.3% of the total cost in the 2021 Cost of Wind Energy Review. Monopile foundations are typically 30 - 40m in length and they are vulnerable to tilt. Exceeding the design limits for tilt could lead to high repair costs and potentially compete shutdown of the structure.
   
@@ -26,20 +26,6 @@ I published two journal papers as first author during my PhD:
   <li>Paper 2: Advancing Understanding of the Influence of Drained Cyclic Loading on Sand Behavior Using DEM - (https://ascelibrary.org/doi/abs/10.1061/JENMDT.EMENG-7248)</li>
 </ol> 
 
-## [Project 1 (Classification): Airline Passenger Satisfaction](https://github.com/TaraSassel/Airline_Passenger_Satisfaction)
-The data for this project was obtained from Kaggle.com and is already divided into training and testing datasets. First an overview of the data is provided for this both the training and testing data was used. Next, a Random Forest Classifier was applied to the training data set. Subsequently, predictions were then made on the testing data set. The model was evaluated using a confusion matrix and calculating metrics such as sensibility and precision. Furthermore, a linear regression model was trained and evaluated. Both models were then compared against each other using ROC curves.
-
-<p align="center">
-  <img src="./images/Project1_Overview.png"  width="80%" height = "80%">
-</p>
-
-## [Weather Forecast](https://github.com/TaraSassel/Weather_Forecasting)
-<p align="center">
-  <img src="./images/Project2_Overview.png"  width="80%" height = "80%">
-</p>
-
-## [Stock Prediction App](https://stockprediction-app-ts.streamlit.app/)
-
 ## Android Game (Java)
 
 ### The Game
@@ -56,6 +42,20 @@ The online Leaderboard system is connected to Google Firebase, where the data in
 <p align="center" width="100%">
   <img width="20%" src="./images/ScreenshotSoiled2.png">
 </p>
+
+## [Project 1 (Classification): Airline Passenger Satisfaction](https://github.com/TaraSassel/Airline_Passenger_Satisfaction)
+The data for this project was obtained from Kaggle.com and is already divided into training and testing datasets. First an overview of the data is provided for this both the training and testing data was used. Next, a Random Forest Classifier was applied to the training data set. Subsequently, predictions were then made on the testing data set. The model was evaluated using a confusion matrix and calculating metrics such as sensibility and precision. Furthermore, a linear regression model was trained and evaluated. Both models were then compared against each other using ROC curves.
+
+<p align="center">
+  <img src="./images/Project1_Overview.png"  width="80%" height = "80%">
+</p>
+
+## [Weather Forecast](https://github.com/TaraSassel/Weather_Forecasting)
+<p align="center">
+  <img src="./images/Project2_Overview.png"  width="80%" height = "80%">
+</p>
+
+## [Stock Prediction App](https://stockprediction-app-ts.streamlit.app/)
 
 <!--
 ## Particle Contact Force (Python)
