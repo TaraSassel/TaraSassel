@@ -72,7 +72,7 @@ _**Final Contact Force Orientation**_
 <p align="center"  width="100%">
   <img src="./images/dump800000000_rose.png">
 </p>
--->
+
 
 
 ## Fraud Data Classification
@@ -125,3 +125,4 @@ _**Confusion Matrix**_
 </p>
 
 (In progress)
+-->
