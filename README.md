@@ -26,7 +26,18 @@ I published two journal papers as first author during my PhD:
   <li>Paper 2: Advancing Understanding of the Influence of Drained Cyclic Loading on Sand Behavior Using DEM - (https://ascelibrary.org/doi/abs/10.1061/JENMDT.EMENG-7248)</li>
 </ol> 
 
+## Energy Spot Price Forecast
+In this project, predictions for the energy spot price of a given country were made based on renewable energy sources such as solar and wind (both onshore and offshore), as well as energy demand. XGBoost models were developed for different countries. To prevent overfitting, the tree depth and learning rate were carefully selected to minimize the RMSE gap between the training and validation sets. Feature engineering was performed to optimize model performance. The data used in this analysis was obtained via API requests from the Energy Charts platform provided by Fraunhofer ISE, using data licensed under CC BY 4.0 from Bundesnetzagentur | SMARD.de for selected bidding zones, and was used in compliance with the licensing terms.
+
+<p align="center">
+  <img src="./images/Project_Overview_EnergyForecast.png"  width="50%" height = "50%">
+</p>
+
+
 ## Android Game (Java)
+<p align="center"  width="100%">
+  <img  width="20%" src="./images/ScreenshotSoiled1.png">
+</p>
 
 ### The Game
 The game was created in Android Studio using Java. It follows a simple concept where the main character can be moved left or right by pressing on the left or right half of the screen. The goal is it to avoid the falling objects unless a hammer has been collected in which case the user can destroy the objects and collect points. The falling assets are called triaxial apparatus which is an equipment used in geotechnical engineering for soil testing. The background is Queens Tower which is located a Imperial College London. When losing the game, the following quote appears "You got soiled". 
