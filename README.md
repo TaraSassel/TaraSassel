@@ -27,7 +27,7 @@ I published two journal papers as first author during my PhD:
 </ol> 
 
 ## Energy Spot Price Forecast
-In this project, predictions for the energy spot price of a given country were made based on renewable energy sources such as solar and wind (both onshore and offshore), as well as energy demand. XGBoost models were developed for different countries. To prevent overfitting, the tree depth and learning rate were carefully selected to minimize the RMSE gap between the training and validation sets. Feature engineering was performed to optimize model performance. The data used in this analysis was obtained via API requests from the Energy Charts platform provided by Fraunhofer ISE, using data licensed under CC BY 4.0 from Bundesnetzagentur | SMARD.de for selected bidding zones, and was used in compliance with the licensing terms.
+In this project, predictions for the energy spot price of a given country were made based on renewable energy sources such as solar and wind (both onshore and offshore), as well as energy demand. XGBoost models were trained for different countries. To prevent overfitting, the tree depth and learning rate were carefully selected to minimize the RMSE gap between the training and validation sets. Feature engineering was performed to optimize model performance. The data used in this analysis was obtained via API requests from Energy-Charts.info, using data licensed under CC BY 4.0 from Bundesnetzagentur | SMARD.de for selected bidding zones, and was used in compliance with the licensing terms.
 
 <p align="center">
   <img src="./images/Project_Overview_EnergyForecast.png"  width="50%" height = "50%">
